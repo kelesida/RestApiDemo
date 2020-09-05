@@ -8,6 +8,8 @@ Demo Rest Api
 Команда создает базу данных, таблицы и заполняет их первоначальными данными.    
 # Использование
 Для проверки запроса можно использовать [Postman](https://www.postman.com/)    
+[Ссылка на коллекцию pets postman](https://www.getpostman.com/collections/d0a88aa7c8c2079fa0c3)    
+В адресе http://__pets.zcab.org__/api/v2/reservation поставьте свой домен.
 ## Endpoint:
 POST /api/v2/reservation    
 ### Параметры запроса:    
